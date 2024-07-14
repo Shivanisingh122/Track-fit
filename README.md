@@ -35,7 +35,8 @@ EXPLORE PAGE
 ![image](https://github.com/user-attachments/assets/e8bc7ebe-64f9-4957-9a9a-20768dc05b59)
 
 ADD WORKOUT
-  ![image](https://github.com/user-attachments/assets/62ed551d-2c27-49ad-8f40-d79dbd6cc245)
+![image](https://github.com/user-attachments/assets/9a3eba01-f334-43f5-a3eb-55caad2a0c8c)
+
 
 
 
