@@ -1,6 +1,6 @@
-# Active Aura 🤸‍♂️
+Health Challenge Tracker🤸‍♂️
 
-Active Aura is a web application for tracking and exploring workout activities. Users can add, filter, and view detailed workout progress.
+Health Challenge Tracker is a web application for tracking and exploring workout activities. Users can add, filter, and view detailed workout progress.
 
 ## Features
 
