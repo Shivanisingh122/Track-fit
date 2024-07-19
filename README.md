@@ -38,7 +38,7 @@ Health Challenge Tracker is a web application for tracking and exploring workout
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shantanupawarcode07/Health-Challenge-Tracker
+   git clone https://github.com/Shivanisingh122/Track-fit.git
    cd Health-Challenge-Tracker
    ```
 
